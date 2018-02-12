@@ -1,0 +1,11 @@
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\UNACH_Winds\Mi Calculadora\bin\Debug\Mi Calculadora.exe.config
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\UNACH_Winds\Mi Calculadora\bin\Debug\Mi Calculadora.exe
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\UNACH_Winds\Mi Calculadora\bin\Debug\Mi Calculadora.pdb
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\UNACH_Winds\Mi Calculadora\obj\Debug\Mi_Calculadora.Properties.Resources.resources
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\UNACH_Winds\Mi Calculadora\obj\Debug\Mi Calculadora.csproj.GenerateResource.Cache
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\UNACH_Winds\Mi Calculadora\obj\Debug\Mi Calculadora.exe
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\UNACH_Winds\Mi Calculadora\obj\Debug\Mi Calculadora.pdb
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\UNACH_Winds\Mi Calculadora\obj\Debug\Mi_Calculadora.Calculadora.resources
+F:\UNACH_Winds\Mi Calculadora\bin\Debug\Mi Calculadora.exe.config
+F:\UNACH_Winds\Mi Calculadora\obj\Debug\Mi Calculadora.exe
+F:\UNACH_Winds\Mi Calculadora\obj\Debug\Mi Calculadora.pdb
